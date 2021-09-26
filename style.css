@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+    margin: auto;
+    display: block;
+    background-color: cornflowerblue;
+}
+.home{
+    height: 500%;
+}
+button{
+    border: none;
+    font-size: 800%;
+    
+}
+a:hover{
+    text-decoration: underline;
+    color: crimson;
+}
+a{
+    color: inherit;
+}
+img{
+    border: 60px;
+}
+.hi{
+    border: black 5px;
+}
